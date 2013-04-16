@@ -9,3 +9,6 @@ class MiuWindow(QMainWindow):
 		self.initConfig()
 		self.resize(800, 600)
 		
+		self.editBoxes = []
+		self.previewBoxes = []
+		

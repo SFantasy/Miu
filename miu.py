@@ -7,7 +7,7 @@ from Miu.window import MiuWindow
 
 def main():
 	app = QApplication(sys.argv)
-	app.setOrganizationName("JellyJollyTeam")
+	app.setOrganizationName("Miu Project")
 	app.setApplicationName("Miu")	
 
 	window = MiuWindow()
