@@ -1,0 +1,20 @@
+{
+	"main": "index.html",
+	"name": "Miu",
+	"author": "SFantasy",
+	"description": "Markdown lovely.",
+	"version": "v0.1",
+	"keywords": ["markdown", "html"],
+	"window": {
+		"icon": "img/logo.png",
+		"toolbar": false,
+		"width": 1024,
+		"height": 800,
+		"position": "mouse",
+		"min_width": 600,
+		"min_height": 600
+	},
+	"webkit": {
+		"plugin": true
+	}
+}
