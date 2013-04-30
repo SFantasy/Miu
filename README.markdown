@@ -11,7 +11,7 @@ Powered by **[Node-webkit](https://github.com/rogerwang/node-webkit)**
 
 ## Online Version
 
-* [Miu Online](http://shaofantasy.cn/MiuOnline)
+* [Miu Online](http://shaofantasy.cn/MiuOnline/)
 
 ## Licence
 
